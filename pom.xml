@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
-    <!-- Cucumber Java -->
+    <!-- Cucumber Java update -->
     <dependency>
         <groupId>io.cucumber</groupId>
         <artifactId>cucumber-java</artifactId>
